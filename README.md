@@ -1,4 +1,4 @@
-# untitled5
+# LOGIC_BOT
 
 A new Flutter project.
 
@@ -14,3 +14,21 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#Voice commands
+Logic Bot can be operated through voice commands. Simply say "Hey Logic Bot" followed by your question or command, and Logic Bot will respond with the answer or carry out the requested action.
+
+# Text input
+Logic Bot can also be operated through text input. Type your question or command into the app, and Logic Bot will respond with the answer or carry out the requested action.
+
+# Question answering
+Logic Bot can answer a wide range of questions on various topics, including science, technology, history, and current events. Simply ask your question, and Logic Bot will provide a relevant and accurate answer.
+
+# Image generation
+Logic Bot can generate images based on user input. Simply describe the image you want to create, and Logic Bot will use OpenAI's image generation capabilities to produce a custom image tailored to your specifications.
+
+# Contributing
+We welcome contributions from the community. To contribute to Logic Bot, please fork the repository and submit a pull request with your changes.
+
+# License
+Logic Bot is open source and released under the MIT License. See LICENSE for more information.
