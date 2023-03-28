@@ -1,5 +1,5 @@
 # LOGIC_BOT
-![alt text](image-url)
+![alt text](https://github.com/poddaravishak/logicbot/blob/master/images/locigbot.png)
 
 Flutter project.
 
