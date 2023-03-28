@@ -5,16 +5,8 @@ Flutter project.
 #contact link
 ## Find me on:
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/your-linkedin-profile/)
-[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" />](https://twitter.com/your-twitter-handle)
-[<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />](https://www.instagram.com/your-instagram-handle/)
-[<img align="left" alt="Facebook" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" />](https://www.facebook.com/your-facebook-profile/)
-[<img align="left" alt="Medium" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />](https://medium.com/@your-medium-handle/)
-[<img align="left" alt="Dev.to" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dev-dot-to.svg" />](https://dev.to/your-dev-handle)
-
-<br />
-
-
+[<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/avishak-poddar/)
+[<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />](https://www.instagram.com/avishakpodder/)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
