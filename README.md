@@ -2,11 +2,11 @@
 
 Flutter project.
 
-#contact link
 ## Find me on:
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/avishak-poddar/)
 [<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />](https://www.instagram.com/avishakpodder/)
+<br/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
