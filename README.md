@@ -1,4 +1,4 @@
-      ![alt text](https://github.com/poddaravishak/logicbot/blob/master/images/locigbot.png)
+![alt text](https://github.com/poddaravishak/logicbot/blob/master/images/locigbot.png)
 
 Flutter project.
 
