@@ -7,6 +7,7 @@ Flutter project.
 [<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/avishak-poddar/)
 [<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />](https://www.instagram.com/avishakpodder/)
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
